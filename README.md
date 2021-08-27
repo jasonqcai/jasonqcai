@@ -1,4 +1,4 @@
-Hi, I’m @jasonqcai;
+Hi, I’m @jasonqcai. 
 I’m currently learning Machine learning at Coursera
 
 <!---
