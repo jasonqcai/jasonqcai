@@ -1,5 +1,5 @@
-Andrew Ng's Machine Learning on Coursera - Exercise Solutions
+Hi, I am Jason. I am learning machine learning.
 
 <!---
-Solutions to Andrew NG's machine learning on Coursera
+Test
 --->
