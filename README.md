@@ -1,6 +1,5 @@
-Machine Learning Coursera Andrew Ng Exercise Solutions
+Andrew Ng's Machine Learning on Coursera - Exercise Solutions
 
 <!---
-jasonqcai/jasonqcai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Solutions to Andrew NG's machine learning on Coursera
 --->
