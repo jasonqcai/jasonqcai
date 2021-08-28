@@ -1,5 +1,4 @@
-Hi, I’m @jasonqcai. 
-I’m currently learning Machine learning at Coursera.
+Machine Learning Coursera Andrew Ng Exercise Solutions
 
 <!---
 jasonqcai/jasonqcai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
